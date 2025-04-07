@@ -17,6 +17,7 @@ submission for WildHacks 2025.<br>
 ## ACKNOWLEDGMENTS
 
 ### Libraries, Frameworks, Open-Source Code
+
 - NextJS 
 - Lucide Icons
 - Tailwind Styling
@@ -24,9 +25,8 @@ submission for WildHacks 2025.<br>
 MySQL
 
 ### LLM 
+
 Gemini AI API
 
 No art used in this project is chatgpt'ed
 
-
-# Nathan_ships
